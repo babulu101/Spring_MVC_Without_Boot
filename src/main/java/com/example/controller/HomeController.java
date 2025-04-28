@@ -11,7 +11,7 @@ public class HomeController {
     @GetMapping("/get")
     @ResponseBody
     public String home() {
-        return "Hello from Correct Spring MVC Project!";
+        return "Hii Your Spring MVC IS Ready";
         
         
      
